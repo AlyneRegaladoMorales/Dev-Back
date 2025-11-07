@@ -1,0 +1,11 @@
+com\example\demos_\Service\CharacterService.class
+com\example\demos_\Entities\Character.class
+com\example\demos_\Service\CommentService.class
+com\example\demos_\Controller\CharacterController.class
+com\example\demos_\repository\CommentRepository.class
+com\example\demos_\Service\impl\CommentServiceImpl.class
+com\example\demos_\repository\CharacterRepository.class
+com\example\demos_\DemosApplication.class
+com\example\demos_\Service\impl\CharacterServiceImpl.class
+com\example\demos_\Controller\CommentController.class
+com\example\demos_\Entities\Comment.class
